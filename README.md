@@ -74,5 +74,5 @@ then click build button on top right of screen
 wait for process to finish and your app is ready !
 
 ## Fallow us on social media
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abyssalarmy)
+[![Facebook](https://img.shields.io/badge/Facebook-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maliksaadawan47)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AbyssalArmy?t=edGojRJOZSFoSxsQVVFAOQ&s=09)
